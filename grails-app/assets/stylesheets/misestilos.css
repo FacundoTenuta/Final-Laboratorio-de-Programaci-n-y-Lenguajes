@@ -1,0 +1,18 @@
+/*
+*= require bootstrap
+*
+*/
+
+.info_peli{
+    color: #ffffff;
+}
+
+#main{
+    padding: 0%;
+    padding-top: 2%;
+    margin: 0%;
+}
+li {list-style-type: none}
+body{
+    background-color: #1c1c1c;
+}
